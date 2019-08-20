@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "AARMSstudent", "AARMSstudent.vbproj", "{679C462F-5FD8-4DCD-B01B-754676FC3DD5}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "cyberattendannce-student", "..\cyberattendannce-student\cyberattendannce-student.vdproj", "{EAC3950E-347C-4E92-ABF2-8F97094802E9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{679C462F-5FD8-4DCD-B01B-754676FC3DD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{679C462F-5FD8-4DCD-B01B-754676FC3DD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{679C462F-5FD8-4DCD-B01B-754676FC3DD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{679C462F-5FD8-4DCD-B01B-754676FC3DD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EAC3950E-347C-4E92-ABF2-8F97094802E9}.Debug|Any CPU.ActiveCfg = Debug
+		{EAC3950E-347C-4E92-ABF2-8F97094802E9}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
